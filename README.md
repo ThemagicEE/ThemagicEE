@@ -4,7 +4,7 @@
 
 As already sad, I'm a Stundent how is trying to developed his own games with Unity.
 
-Skills: Unity/C#
+Skills: Unity/C# HTML/CSS
 
 
 
