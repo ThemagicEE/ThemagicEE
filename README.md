@@ -4,7 +4,7 @@ As already sad, I'm a Stundent how is starting his coding journy.
 
 Lerning right now: Html/CSS
 
-<img align="left" alt="Coding" width="400" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif">
+<img align="left" alt="Coding" width="400" src="[https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif](https://media.tenor.com/i3lImBg2UEQAAAAd/scaler-create-impact.gif)https://media.tenor.com/i3lImBg2UEQAAAAd/scaler-create-impact.gif">
 
 
 
