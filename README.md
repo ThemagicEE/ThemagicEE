@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am ThemagicEE
 #### I'm a student thats learning Coding
-As already sad, I'm a Stundent how is starting his coding journy.
+As already sad, I'm a Stundent who is starting his coding journy.
 
 Lerning right now: Html/CSS
 
